@@ -1,8 +1,9 @@
 {
-  "name": "project__10",
+  "name": "mmm-188oop",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
+  "bin": "oop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
